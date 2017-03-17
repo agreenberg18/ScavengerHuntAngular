@@ -1,0 +1,43 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.formAndTitle{
+
+}
+
+#email{
+    margin-bottom:10px;
+}
+
+h1{
+    font-size: 3em;
+    color:white;
+}
+
+h3{
+    color:white;
+    font-size:2.5em;
+}
+
+input{
+    font-size:2em;
+    background-color: transparent;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #eeeeee 1px;
+}
+
+button{
+    margin-top:25px;
+    padding-top:25px;
+    padding-bottom:25px;
+    font-size:2.5em;
+    border-radius:50px;
+    border:0px;
+    background-color:#80d8ff;
+}
